@@ -1,0 +1,14 @@
+.sectionFormulario{
+    display: flex;
+    justify-content: center;
+    margin: 80px 0px;
+    
+}
+
+.sectionFormulario form{
+    max-width: 80%;
+    border-radius: 20px;
+    background-color: rgb(91, 91, 231);
+    padding: 34px 64px;
+    box-shadow: 8px 8px 16px rgb(0, 0, 0);
+}

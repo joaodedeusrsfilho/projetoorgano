@@ -1,0 +1,29 @@
+.footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: #6278F7;
+    height: 100px;   
+    align-items: center; 
+    color: #fff;
+    
+}
+
+.footer .lista{
+    display: inline-block;
+    list-style: none;
+}
+
+.listaIcones a{
+    padding: 0px 15px 0px 0px;
+    height: 100px;
+}
+
+.linkedin{
+    padding: 0px 0px 0px 0px;
+    height: 35px;
+    
+}
+
+
+
+
