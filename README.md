@@ -3,4 +3,5 @@
 ### Projeto para organizar pessoas e times em um só lugar, utilizando react + vite.
 
 <a href='https://projetoorgano-six.vercel.app/' target="_blank">Clique aqui para visualizar o projeto
+
 <img src='print.png'>
