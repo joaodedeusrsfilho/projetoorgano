@@ -1,5 +1,5 @@
 ### Projeto para organizar pessoas e times em um só lugar, utilizando react + vite.
-Obs: no campo imagem digite por exemplo a seguinte url: ahttps://github.com/joaodedeusrsfilho.png, dessa forma ira aparecer a imagem da foto do perfil do usuário do github
+Obs: no campo imagem digite por exemplo a seguinte url: https://github.com/joaodedeusrsfilho.png, dessa forma ira aparecer a imagem da foto do perfil do usuário do github
 
 <a href='https://projetoorgano-six.vercel.app/' target="_blank">Clique aqui para visualizar o projeto
 
